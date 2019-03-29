@@ -1,4 +1,4 @@
 # IITKGP_CS69002_Spring_2019
 Repository for the CS69002 Spring course of Computing Lab 2
 
-[Demo Link](https://github.com/rajeshsahu09/CS69002_9A_18CS60R19/blob/master/MLP_Tutorial_New.ipynb)
+[Demo Link](https://colab.research.google.com/github/rajeshsahu09/CS69002_9A_18CS60R19/blob/master/MLP_Tutorial_New.ipynb)
